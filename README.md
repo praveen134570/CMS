@@ -69,3 +69,4 @@ CORS_ORIGINS=https://admin.example.com,https://example.com
 PUBLIC_API_URL=https://api.example.com
 
 For production, put FastAPI behind HTTPS/reverse proxy and use a managed PostgreSQL database. Run migrations with Alembic rather than relying on `create_all`.
+# CMS
